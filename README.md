@@ -1,6 +1,6 @@
-# INVENTABLE
+# RestaurantCLD
 
-INVENTABLE - Sistema Web para Gestión de Restaurantes
+RestaurantCLD - Sistema Web para Gestión de Restaurantes
 
 Requisitos:
 - Python 3.10+
