@@ -9,7 +9,7 @@ Requisitos:
 
 Instalación y ejecución:
 1. Clonar el repositorio:
-   git clone https://github.com/Miaalexan/INVENTABLE.git
+   git clone https://github.com/JuanPreciadoR/INVENTABLE-main.git
 
 2. Entrar en la carpeta del proyecto:
    cd INVENTABLE
